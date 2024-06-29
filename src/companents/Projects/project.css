@@ -27,7 +27,7 @@ a {
 
     .item_name {
         text-align: center;
-
+        transition: all ease 0.8s;
         font-size: 14px;
         font-family: "Nunito", sans-serif;
         font-optical-sizing: auto;
