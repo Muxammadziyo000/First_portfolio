@@ -5,7 +5,25 @@ h1 {
 }
 
 .css-nc6g93-MuiGauge-container text {
+    fill: none;
+    color: none;
+
+}
+
+.css-nc6g93-MuiGauge-container text {
     fill: #FFF !important;
+    color: #FFF !important;
+
+}
+
+.css-1knrjuw text {
+    fill: none;
+    color: none;
+}
+
+.css-1knrjuw text {
+    fill: #FFF !important;
+    color: #FFF !important;
 }
 
 .skills_wrapper {
