@@ -107,7 +107,7 @@ function Skills() {
           />
           <h4>React</h4>
         </div>
-        -
+
 
       </div>
     </div>
